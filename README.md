@@ -10,6 +10,6 @@ content
 to 
 
 ```
-!!!info
+!!!info title
   content
 ```
